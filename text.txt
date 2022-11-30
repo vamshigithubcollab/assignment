@@ -1,0 +1,14 @@
+Name:         Mohanavamshi
+Roll Number:  21071A0540
+Branch:       CSE
+Address:      11-24-534,madhura colony,pochhamaidan,warangal
+Skills:       1.Html
+              2.CSS
+              3.Javascript
+              4.C
+              5.C++
+              6.Python
+Overall CGPA: 9.12
+Linked in 
+profile:      https://www.linkedin.com//mohanavamshi
+Phone Number: 9704115606
